@@ -20,6 +20,6 @@
 python spotify_cover_downloader.py --client_id xxxx --client_secret xxxx --directory ~/Downloads spotify:track:1kGb78PHGlylL7s9Nw79Si
 ```
 
-> This scripts supports song links and Spotify URI (`https://open.spotify.com/track/5YzBL3vkQnp3JbeDRRSbSQ?si=NbpHIuJcR_SMjHbD_rv9LA` or `spotify:track:5YzBL3vkQnp3JbeDRRSbSQ`)
+> This scripts supports song links and Spotify URI (https://open.spotify.com/intl-pt/track/2kJIRtytgFsVFoM5lDSYVN)
 
 > You can also hardcode your `client_id` and `client_secret` if you don't want to pass it as a parameter
